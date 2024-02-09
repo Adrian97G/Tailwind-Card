@@ -14,8 +14,4 @@
 
 ![Image - App1](/src/assets/tailwind-card.PNG)
 
-## :link: Link to see the project in action
-
-[Here you can visit my website](https://tailwind-card-adrian-dev.netlify.app/)
-
 ## :wave: Greetings!!
